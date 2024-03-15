@@ -1,7 +1,8 @@
 id=OCG
 name=OCG Binary Set Lazada x Dana x Tameng x Wifi x Vpn
-version=v1.5
-versionCode=1.5
+version=v1.4
+versionCode=1.4
 author=@HERLAN
 description=OCG Set Kumplit. Open Donasi DANA : 085721590911
 support=Whatsapp @ 085721590911
+updateJson=https://github.com/herlan26/OCG-Module/raw/main/update.json
