@@ -22,7 +22,8 @@ Included Binaries :
 > 4. tinjauOld
 > 5. restoreWB
 > 6. restoreWBx
-=============================================================================================================
+==================================================================
+
 Usage :
 
 ACAKACAK       : Used to randomize the id of the system settings ssid ( settings_ssid.xml ).
