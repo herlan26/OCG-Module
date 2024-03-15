@@ -41,6 +41,7 @@ Nanam :
 
 restoreXmlWipe :
 > Used to Inject XML file to Lazadut. noted, this script wipe data Lazadut before injecting.
+> 
 > /sdcard/Restore-20/
 
 sortirVCR :
@@ -48,25 +49,31 @@ sortirVCR :
 
 suntik :
 > Used to sorting XML file automatic.
+> 
 > /sdcard/vc/
 
 vcrTool :
 > Used to Injecting, Sorting, XML for Lazadut.
+> 
 > /sdcard/OCG/LZ/XML/
 
 tinjau :
 > Used to Unblock request automaticly.
+> 
 > /sdcard/OCG/tinjau/
 
 restoreWBx :
 > Used to restore WB tar.gz backed up by Xkat.
+> 
 > /sdcard/OCG/restore/xkat/com.whatsapp.w4b/
 
 restoreWB :
 > Used to restore WB tar.gz backed up by wabis or Wosaptool.
+> 
 > /sdcard/OCG/restore/com.whatsapp.w4b/
 
 wabis :
 > Used to backup WB and save it into tar.gz file.
+> 
 > /sdcard/OCG/wabis/
 
